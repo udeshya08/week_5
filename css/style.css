@@ -1,0 +1,124 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); 
+
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Unbounded', cursive;
+
+/* Set the box-sizing for all elements to border-box */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.content-wrapper {
+  width: 60%;
+  background-color: rgb(9, 09, 28);
+  padding: 5%;
+  color: #ffffff;
+  height: 83vh;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 1.1;
+  margin-bottom: 30px;
+  font-family: "Unbounded", cursive;
+}
+
+h2 {
+  margin-bottom: 100px;
+  font-weight: 200;
+}
+
+figure {
+  width: 40%;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 105vh;
+
+}
+
+.button {
+  margin-top: 20px;
+}
+
+.button a {
+  display: inline-block;
+  padding: 10px 50px;
+  background: orange;
+  border-radius: 30px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: 800;
+  transition: all 0.5s ease;
+}
+
+.button a:hover {
+  background: black;
+  color: orange;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;}
+.container2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .content-wrapper2 {
+    width: 60%;
+    background-color: rgb(146, 26, 37);
+    padding: 5%;
+    color: #ffffff;
+    height: 70vh;
+  }
+
+  h1 {
+    font-size: 50px;
+    line-height: 1.1;
+    margin-bottom: 30px;
+    font-family: "Unbounded", cursive;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    font-weight: 200;
+  }
+   
+  h3 {
+  font-size: 20px;
+    font-weight: 100;}
+    h4{
+        font-size: 20px;
+            font-weight: 100;}
+            h5{
+                font-size: 20px;
+                    font-weight: 100;}
+                    h6{
+                        font-size: 20px;
+                            font-weight: 100;}
+                            h7{
+                                font-size: 20px;
+                                    font-weight: 100;}
+                            figure {
+                                width: 40%;
+                                overflow: hidden;
+                                background-size: cover;
+                                background-repeat: no-repeat;
+                                height: 105vh;}
